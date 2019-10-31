@@ -4,13 +4,15 @@ layout: datasci
 
 ## 파이썬 코딩 수학 with 파이썬 강의노트 모음집
 
-* [1장 데이터과학 소개](./notebooks/DataSci01-DataScience_Intro.html)
-* [2장 통합개발환경 준비](./notebooks/DataSci02-IDE_Intro.html)
+* [1장 데이터과학 소개](./notebooks/CodingMath01-DataScience_Intro.html)
+* [2장 통합개발환경 준비](./notebooks/CodingMath02-IDE_Intro.html)
+* [3장 첫 프로그래밍](./notebooks/CodingMath03-Programming_Start.html)
+
+<!---
 * [3장 파이썬 기본자료형 1부: 정수, 부동소수점, 불리언](./notebooks/DataSci03-DataTypes_Part1.html)
 * [4장 파이썬 기본자료형 2부: 문자열 다루기](./notebooks/DataSci04-DataTypes-Part2.html)
 * [5장 프로그래밍 실행 흐름 제어: 조건문과 반복문](./notebooks/DataSci05-Control_Flow.html)
 
-<!---
 There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
