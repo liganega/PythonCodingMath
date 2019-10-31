@@ -10,6 +10,12 @@ layout: datasci
 * [4장 파이썬 프로그래밍 기초 1부](./notebooks/CodingMath04-Python-FastTrack-Part01.html)
 * [5장 파이썬 프로그래밍 기초 2부](./notebooks/CodingMath05-Python-FastTrack-Part02.html)
 
+
+## 참가자 이메일 연락처 등록
+
+이름과 이메일 주소를 [이곳](https://forms.gle/chXV1Lfat2VvaEfb9)에서 입력해 주세요.
+
+
 <!---
 * [3장 파이썬 기본자료형 1부: 정수, 부동소수점, 불리언](./notebooks/DataSci03-DataTypes_Part1.html)
 * [4장 파이썬 기본자료형 2부: 문자열 다루기](./notebooks/DataSci04-DataTypes-Part2.html)
