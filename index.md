@@ -7,6 +7,8 @@ layout: datasci
 * [1장 데이터과학 소개](./notebooks/CodingMath01-DataScience_Intro.html)
 * [2장 통합개발환경 준비](./notebooks/CodingMath02-IDE_Intro.html)
 * [3장 첫 프로그래밍](./notebooks/CodingMath03-Programming_Start.html)
+* [4장 파이썬 프로그래밍 기초 1부](./notebooks/CodingMath04-Python-FastTrack-Part01.html)
+* [5장 파이썬 프로그래밍 기초 2부](./notebooks/CodingMath05-Python-FastTrack-Part02.html)
 
 <!---
 * [3장 파이썬 기본자료형 1부: 정수, 부동소수점, 불리언](./notebooks/DataSci03-DataTypes_Part1.html)
