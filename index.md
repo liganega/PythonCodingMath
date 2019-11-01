@@ -20,7 +20,6 @@ comments:true
 <br>
 
 ## 질문은 아래에 올려주세요.
-<br>
 {% include disqus.html %}
 
 <!---
