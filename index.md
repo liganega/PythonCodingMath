@@ -1,5 +1,6 @@
 ---
-layout: datasci
+layout: datasci-disqus
+comments:true
 ---
 
 ## 파이썬 코딩 수학 with 파이썬 강의노트 모음집
