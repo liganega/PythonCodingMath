@@ -1,5 +1,5 @@
 ---
-layout: datasci-disqus
+layout: datasciDisqus
 comments:true
 ---
 
@@ -16,6 +16,7 @@ comments:true
 
 이름과 이메일 주소를 [이곳](https://forms.gle/chXV1Lfat2VvaEfb9)에서 입력해 주세요.
 
+{% include disqus.html %}
 
 <!---
 * [3장 파이썬 기본자료형 1부: 정수, 부동소수점, 불리언](./notebooks/DataSci03-DataTypes_Part1.html)
