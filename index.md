@@ -1,5 +1,5 @@
 ---
-layout: datasciDisqus
+layout: datasci
 comments:true
 ---
 
@@ -10,12 +10,17 @@ comments:true
 * [3장 첫 프로그래밍](./notebooks/CodingMath03-Programming_Start.html)
 * [4장 파이썬 프로그래밍 기초 1부](./notebooks/CodingMath04-Python-FastTrack-Part01.html)
 * [5장 파이썬 프로그래밍 기초 2부](./notebooks/CodingMath05-Python-FastTrack-Part02.html)
-
+<br>
+<br>
 
 ## 참가자 이메일 연락처 등록
 
 이름과 이메일 주소를 [이곳](https://forms.gle/chXV1Lfat2VvaEfb9)에서 입력해 주세요.
+<br>
+<br>
 
+## 질문은 아래에 올려주세요.
+<br>
 {% include disqus.html %}
 
 <!---
