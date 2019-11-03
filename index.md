@@ -3,13 +3,16 @@ layout: datasci
 comments:true
 ---
 
+## 공지사항
+* [공지파일](Reports.md)을 열어보세요.
+* 주별 공부내용과 안내사항을 정리하였습니다.
+* 매주 내용이 업데이트 됩니다.
+
 ## 파이썬 코딩 수학 with 파이썬 강의노트 모음집
 
 * [1장 데이터과학 소개](./notebooks/CodingMath01-DataScience_Intro.html)
-* [2장 통합개발환경 준비](./notebooks/CodingMath02-IDE_Intro.html)
-* [3장 첫 프로그래밍](./notebooks/CodingMath03-Programming_Start.html)
-* [4장 파이썬 프로그래밍 기초 1부](./notebooks/CodingMath04-Python-FastTrack-Part01.html)
-* [5장 파이썬 프로그래밍 기초 2부](./notebooks/CodingMath05-Python-FastTrack-Part02.html)
+* [2장 데이터과학 개발환경 준비](./notebooks/CodingMath02-IDE_Intro.html)
+* [3장 파이썬 프로그래밍 기초 1부](./notebooks/CodingMath03-Python_Programming_Basis01.html)
 <br>
 <br>
 
