@@ -25,9 +25,6 @@
 ### 다루지 못한 내용
 * 구글 콜랩 활용
   * 문제: 구글 크롬 다운로드 필요
-  * 다운로드 파일 준비할 것
-  * 링크:https://www.google.com/intl/ko/chrome/?standalone=1 
-  * 설치파일을 다운받아서 usb에 담아오세요.
 * repl.it 사이트 회원가입, 아나콘다 및 파이참 설치
   * repl.it 사이트 회원가입은 2주차에 실시 예정
   * 아나콘다 및 파이참 설치는 특강 후반기에 설명 예정
@@ -64,13 +61,13 @@
 # 2주차 특강 준비사항
 
 1. 구글 크롬 설치파일 각자 usb에 담아올 것
-	* 다운로드 링크: https://www.google.com/intl/ko/chrome/?standalone=1 
+	* [설치파일 링크](https://www.google.com/intl/ko/chrome/?standalone=1) 
 1. 개인적으로 구글 콜랩 사용법 익히기
-	* 구글 콜랩 기본사용법 설명 비디오: https://www.youtube.com/watch?v=Fx-OtT7Hu0g
-		* 처음부터 4:12 구간 정도까지만 보면 충분
+	* [구글 콜랩 기본사용법 설명 비디오](https://www.youtube.com/watch?v=Fx-OtT7Hu0g)
+	* 처음부터 4:12 구간 정도까지만 보면 충분
 1. 주피터 노트북 사용법 익히기
-	* 사용법 설명 비디오: https://www.youtube.com/watch?v=jmk-3G8FYII
-		* 0:33 ~ 3:21 구간이면 기본사용법 충분
+	* [사용법 설명 비디오](https://www.youtube.com/watch?v=jmk-3G8FYII)
+	* 0:33 ~ 3:21 구간이면 기본사용법 충분
 1. 특강 교재 1부 내용 복습하기
 	* 구글 콜랩의 주피터 노트북을 활용하여 아래 내용 복습
 		* Chapter 01 정수형, 문자형 자료형
