@@ -22,6 +22,7 @@ comments:true
 ## 참가자 이메일 연락처 등록
 
 이름과 이메일 주소를 [이곳](https://forms.gle/chXV1Lfat2VvaEfb9)에서 입력해 주세요.
+(마감하였습니다.)
 <br>
 <br>
 
