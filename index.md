@@ -11,13 +11,18 @@ comments:true
   * 주차별 공부내용과 안내사항을 정리하였습니다.
   * 매주 내용이 업데이트 됩니다.
 
+---
+
 ## 파이썬 코딩 수학 with 파이썬 강의노트 모음집
 
 * [1장 데이터과학 소개](./notebooks/CodingMath01-DataScience_Intro.html)
 * [2장 데이터과학 개발환경 준비](./notebooks/CodingMath02-IDE_Intro.html)
 * [3장 파이썬 프로그래밍 기초 1부](./notebooks/CodingMath03-Python_Programming_Basis01.html)
+* [4장 파이썬 프로그래밍 기초 2부](./notebooks/CodingMath04-Python_Programming_Basis02.html)
 <br>
 <br>
+
+---
 
 ## 참가자 이메일 연락처 등록
 
@@ -25,6 +30,8 @@ comments:true
 (마감하였습니다.)
 <br>
 <br>
+
+---
 
 ## 질문은 아래에 올려주세요.
 {% include disqus.html %}
