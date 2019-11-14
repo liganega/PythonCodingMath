@@ -19,6 +19,8 @@ comments:true
 * [2장 데이터과학 개발환경 준비](./notebooks/CodingMath02-IDE_Intro.html)
 * [3장 파이썬 프로그래밍 기초 1부](./notebooks/CodingMath03-Python_Programming_Basis01.html)
 * [4장 파이썬 프로그래밍 기초 2부](./notebooks/CodingMath04-Python_Programming_Basis02.html)
+* [5장 numpy array 활용 기초](./notebooks/CodingMath05-Numpy_Array.html)
+* [6장 1차 연립방정식 풀기](./notebooks/CodingMath06-Linear_equations.html)
 <br>
 <br>
 
