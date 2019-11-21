@@ -1,3 +1,17 @@
+# 3주차(2019년 11월 14일) 공부내용
+<br>
+<br>
+
+## [5장 numpy array 활용 기초](./notebooks/CodingMath05-Numpy_Array.html)
+## [6장 선형대수 기초](./notebooks/CodingMath06-Linear_Algebra_Basis01.html)
+
+### 다룬 내용
+* numpy 모듈 활용 기초
+* 행렬을 활용한 선형대수 기초 다루기
+
+
+---
+
 # 2주차(2019년 11월 7일) 공부내용
 <br>
 <br>

@@ -21,6 +21,7 @@ comments:true
 * [4장 파이썬 프로그래밍 기초 2부](./notebooks/CodingMath04-Python_Programming_Basis02.html)
 * [5장 numpy array 활용 기초](./notebooks/CodingMath05-Numpy_Array.html)
 * [6장 선형대수 기초](./notebooks/CodingMath06-Linear_Algebra_Basis01.html)
+* [7장 확률과통계 기초](./notebooks/CodingMath07-Statistics_Basis.html)
 <br>
 <br>
 
