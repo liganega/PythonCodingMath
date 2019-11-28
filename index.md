@@ -23,7 +23,7 @@ comments:true
 * [6장 선형대수 기초](./notebooks/CodingMath06-Linear_Algebra_Basis01.html)
 * [7장 확률과통계 기초](./notebooks/CodingMath07-Statistics_Basis.html)
 * [8장 머신러닝 소개](./notebooks/CodingMath08-ML_Basis.html)
-* [9장 사이킷런 활용](./notebooks/CodingMath09-ML_Examples.html)
+* [9장 사이킷런 활용](./notebooks/CodingMath09-ML_SciKitLearn.html)
 <br>
 <br>
 

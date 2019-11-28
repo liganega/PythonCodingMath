@@ -1,3 +1,10 @@
+# 4주차(2019년 11월 21일) 공부내용
+<br>
+<br>
+
+## [7장 확률과 통계 기초](./notebooks/CodingMath07-Statistics_Basis.html)
+
+
 # 3주차(2019년 11월 14일) 공부내용
 <br>
 <br>
