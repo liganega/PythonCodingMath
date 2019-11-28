@@ -4,6 +4,11 @@
 
 ## [7장 확률과 통계 기초](./notebooks/CodingMath07-Statistics_Basis.html)
 
+### 다룬 내용
+* 평균, 분산, 표준편차, 상관관계 등 확률과 통계 기초를 파이썬으로 다루기
+* pandas의 dataframe 자료형 활용
+
+---
 
 # 3주차(2019년 11월 14일) 공부내용
 <br>
