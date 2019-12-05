@@ -24,6 +24,7 @@ comments:true
 * [7장 확률과통계 기초](./notebooks/CodingMath07-Statistics_Basis.html)
 * [8장 머신러닝 소개](./notebooks/CodingMath08-ML_Basis.html)
 * [9장 사이킷런 활용](./notebooks/CodingMath09-ML_SciKitLearn.html)
+* [10장 딥러닝 기초](./notebooks/CodingMath10-Deep_Learning_Basic.html)
 <br>
 <br>
 
