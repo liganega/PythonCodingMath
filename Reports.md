@@ -1,3 +1,28 @@
+# 6주차(2019년 12월 5일) 공부내용
+<br>
+<br>
+
+## [10장 딥러닝 소개](./notebooks/CodingMath10-Deep_Learning_Basic.html)
+
+### 다룬 내용
+* 딥러닝 기본 개념 소개
+* 다층 인공신경망 설계 에제 및 실습
+
+---
+
+# 5주차(2019년 11월 28일) 공부내용
+<br>
+<br>
+
+## [8장 머신러닝 소개](./notebooks/CodingMath08-ML_Basis.html)
+## [9장싸이킷런 활용](./notebooks/CodingMath09-ML_SciKitLearn.html)
+
+### 다룬 내용
+* 머신러닝 기본 개념 소개
+* 머신러닝 전용 SciKitLearn 라이브러리 활용
+
+---
+
 # 4주차(2019년 11월 21일) 공부내용
 <br>
 <br>
